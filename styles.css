@@ -29,6 +29,7 @@ body{
     font-size: 2rem;
     color:black;
 }
+
 .number1{transform: rotate(30deg)}
 .number2{transform: rotate(60deg)}
 .number3{transform: rotate(90deg)}
@@ -54,17 +55,14 @@ body{
     border-top-right-radius: 10px;
     z-index: 2;
 }
-
 .second{
     width: 3px;
     background-color: red;
 }
-
 .minute{
     width: 6px;
     z-index: 2;
 }
-
 .hour{
     height: 30%;
     transform: rotate(0deg);
