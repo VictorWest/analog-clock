@@ -11,7 +11,7 @@ body{
     align-items: center;
     background: rgb(25,4,130);
     background: linear-gradient(90deg, rgb(0, 95, 143) 50%, rgba(0,169,255,1) 100%);
-    /* overflow: hidden; */
+    overflow: hidden;
 }
 .clock{
     width: 500px;
